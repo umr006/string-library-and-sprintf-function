@@ -1,0 +1,15 @@
+sprintf c           y
+sprintf d           y
+sprintf e           y +-
+sprintf f           n
+sprintf g           n
+sprintf hex1        n
+sprintf hex2        n
+sprintf i           n
+sprintf n           n
+sprintf octal       n
+sprintf percent     n
+sprintf pointer     n
+sprintf string      n
+sprintf unsigned    n
+
